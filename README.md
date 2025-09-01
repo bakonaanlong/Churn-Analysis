@@ -4,6 +4,7 @@ PROJECT TITLE
 Customer Churn Analysis
 
 OVERVIEW
+
 This repository contains an interactive dashboard analyzing churn data from 3 countries(France, Spain and Germany), built with Microsoft Excel. It visualizes trends, maps and KPIs to support business decisions.
 
 FEATURES
