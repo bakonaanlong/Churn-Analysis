@@ -18,7 +18,7 @@ FEATURES
           -The demographic of users with the most churn were Old aged people from France and Spain.
 
 TECHNOLOGIES USED
-- Power Query for Extracting and Transforming
+- Power Query for Extracting and Transforming the data
 - My Brain for brainstorming
 - Excel for Visualization
 
