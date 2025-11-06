@@ -1,10 +1,4 @@
-# Churn Analysis Dashboard README
-
-**Version:** 1.0  
-**Author:** Bako Naanlong  
-**Date:** November 06, 2025  
-**Powered by:** Bing | GeekyAnts, Microsoft, TomTom  
-**Purpose:** This document serves as the official user guide and analytical companion to the Churn Analysis Dashboard. It provides a structured reference for stakeholders, analysts, and decision-makers to interpret metrics, derive insights, and drive retention-focused actions.
+# Churn Analysis Dashboard 
 
 ---
 
