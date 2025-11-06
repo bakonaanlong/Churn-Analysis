@@ -4,7 +4,7 @@
 
 ## 1. Background and Overview
 
-The **Churn Analysis Dashboard** is a strategic business intelligence tool designed to quantify customer attrition (churn) and identify underlying behavioral, demographic, and geographic drivers. Built on a proprietary dataset of 19,873 registered users, the dashboard aggregates key performance indicators (KPIs) across age, gender, tenure, geography, and creditworthiness.
+This **Churn Analysis Dashboard** is a strategic business intelligence tool designed to quantify customer attrition (churn) and identify underlying behavioral, demographic, and geographic drivers. Built on a proprietary dataset of 19,873 registered users, the dashboard aggregates key performance indicators (KPIs) across age, gender, tenure, geography, and creditworthiness.
 
 ### Core Objectives
 - Measure churn magnitude (20.7% exit rate).
