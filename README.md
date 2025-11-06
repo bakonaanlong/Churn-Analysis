@@ -13,11 +13,9 @@ The **Churn Analysis Dashboard** is a strategic business intelligence tool desig
 - Enable geography-specific interventions (Spain, Germany, France focus).
 
 ### Navigation
-- **Overview → Dashboard → Data Analysis → Datasets**
 - Interactive filters: Age Bracket, Geography, Gender
 - Real-time KPI tiles for instant executive scanning
 
-The dashboard employs a purple-orange visual language: purple denotes tenure/salary (retention proxies), orange highlights age and gender differentials.
 
 ---
 
@@ -45,8 +43,6 @@ The underlying dataset is relational and anonymized, comprising the following in
 - **Average Tenure** = `MEAN(tenure_years)` segmented by filters
 - **Average Salary** = `MEAN(salary_usd)` segmented by filters
 
-Data granularity: **user-level** → aggregated to **segment-level** via COUNT, MEAN, and weighted averages. Refresh cadence: nightly.
-
 ---
 
 ## 3. Executive Summary
@@ -73,6 +69,8 @@ The dashboard reveals a **retention triad**: longer tenure → higher salary →
 ---
 
 ## 4. Insights Deep Dive
+
+![yeahboy](https://github.com/bakonaanlong/Churn-Analysis/blob/main/churn%20dashboard.JPG)
 
 ### 4.1 Age Bracket Analysis
 - **Salary Distribution**: MiddleAged dominate earnings ($90-110k peak); Old plateau at ~$85k; Young trail at ~$65k.
@@ -139,12 +137,4 @@ Germany’s **tenure premium** (+0.33 years above platform average) correlates w
 
 ---
 
-**Appendix**  
-- **Glossary**: Churn = voluntary/involuntary exit; Tenure = years since registration  
-- **Support**: Contact dashboard admin (Bako Naanlong) via in-app chat  
-- **Data Privacy**: GDPR-compliant; all visuals aggregated (n ≥ 30 per segment)
 
-This README will be updated quarterly or upon material schema changes.  
-
-**End of Document**  
-Prepared for strategic decision-making | Churn Analysis Dashboard v1.0
